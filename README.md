@@ -30,12 +30,12 @@ To run the project locally, follow these steps:
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/john-smilga/react-course-v3.git
+git clone https://github.com/Ulku-dur/color-generator
 ```
 
 ### Navigate to the project directory:
 ```bash
-cd react-course-v3/04-fundamental-projects/09-color-generator/final
+cd https://github.com/Ulku-dur/color-generator
 ```
 
 ### Install dependencies:
