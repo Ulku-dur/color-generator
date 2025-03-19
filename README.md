@@ -30,7 +30,7 @@ To run the project locally, follow these steps:
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/Ulku-dur/color-generator
+git clone [https://github.com/Ulku-dur/color-generator](https://github.com/Ulku-dur/color-generator.git)
 ```
 
 ### Navigate to the project directory:
