@@ -45,7 +45,7 @@ npm install
 
 ### Start the project:
 ```bash
-npm start
+npm run dev
 ```
 
 ### Open in browser:
